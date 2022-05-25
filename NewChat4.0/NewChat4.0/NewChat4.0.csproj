@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CLASSES\TestChatClass.cs" />
     <Compile Include="USERCONTROLS\ChatFormUserControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
